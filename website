@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lauren's Favorite Foods</title>
+    <body>
+       <h1>A Collection of Recipes</h1>
+       <p><em>Hopefully</em> this turns out how I intend :D <br>
+        Plus I can always refrence my favorite recipes!</p>
+        <div id="italian">
+       <h3>Italian</h3>
+       <p>Alfredo is one of my favorites.</p>
+       <img src="https://images.app.goo.gl/Re9zE6PVKMjBymi8A"/>
+       <br>
+       <ul>
+         <li>Noodles</li>
+         <li>Cream Cheese</li>
+         <li>Milk</li>
+         <li>Butter</li>
+         <li>Parmasean Cheese</li>
+         <li>Garlic</li>
+         <li>Pepper</li>
+         <li>Salt</li>
+       </ul>
+        </div>
+        <div id="American">
+       <h3>American</h3>
+       <p>Who Doesn't Love A Bacon Cheeseburger!</p>
+       <img src="https://images.app.goo.gl/fgF5wTDG9SpX2BCv9"/>
+       <br>
+         <ul>
+           <li>Hamburger Meat</li>
+           <li>Cheese</li>
+           <li>Hamburger Buns</li>
+           <li>Bacon</li>
+           <li>Salt</li>
+           <li>Pepper</li>
+           <li>Garlic</li>
+           <li>love</li>
+         </ul>
+     </div>
+     <div id="mexican">
+       <h3>Mexican</h3>
+       <p>Purritos</p>
+       <img src="https://images.app.goo.gl/DsouUknsvH5mHFgVA"/>
+       <br>
+         <ul>
+           <li>The Cutest</li>
+           <li>The Cuddliest</li>
+           <li>It's me</li>
+         </ul>
+     </div>
+    </body>
+</head>
+</html>
